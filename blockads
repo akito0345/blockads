@@ -1,0 +1,84 @@
+
+[Adblock Plus 2.0]
+! Title: Block ADS Favorite Websites
+! Version: 011
+! Last modified: 05/03/2020 9:08 GMT+7
+! Expires: 3 days
+! Homepage: https://github.com/ompujang/
+! License: https://github.com/ompujang/block-ads-favorite-websites/blob/master/LICENSE
+! Support: https://github.com/ompujang
+#This Block ADS Favorite Websites is created for use with my favorite websites.
+#The purpose is to update in many devices.
+
+! 2020-09-13 https://shrinke.me
+shrinke.me##.text-left
+||shrinkme.io/header9.webp$image
+shrinke.me###bs-example-navbar-collapse-1
+shrinke.me###mainNav > .container
+shrinke.me###mainNav
+shrinke.me##.copyright-container
+shrinke.me##center
+
+
+! 2020-08-30 https://iir.ai
+iir.ai##.text-left
+iir.ai##.copyright-container
+
+! 2020-08-31 https://bolssc.com
+bolssc.com##footer
+bolssc.com###mainNav
+bolssc.com##.link
+
+! 2020-09-08 https://fcdot.lc
+fcdot.lc##p
+fcdot.lc###container
+fcc.lc##p
+fcc.lc##.adq
+||fc.lc/dwn.html$subdocument
+fcc.lc##h2.text-center
+fcc.lc##.col-sm-6
+fcc.lc##.col-sm-4
+fcc.lc##.text-light
+||i.imgur.com/H0LMgQx.png$image
+
+
+! 2020-09-13 https://tii.ai
+tii.ai##.text-left
+tii.ai##.copyright-container
+||shrinkearn.com/webroot/modern_theme/img/NewBackground.jpeg$image
+tii.ai###mainNav
+
+! 19/6/2563 https://stfly.me
+stfly.me##body > div:nth-of-type(3) > div:nth-of-type(1)
+||interst12.com$subdocument
+stfly.me##._nkm2jsq
+stfly.me##._u3wtmx
+stfly.me##._fl8u4y7
+stfly.me##._hfef5938
+stfly.me###_hevs2tr
+stfly.me###p_3381275
+stfly.me##.copyright-container
+stfly.me###bs-example-navbar-collapse-1
+||shrtfly.com/header.jpg$image
+stfly.me###mainNav > .container
+stfly.me###mainNav
+stfly.me##div.text-left:nth-of-type(2)
+stfly.me##center > p
+stfly.me##b
+
+
+! 20/7/2563 https://smoner.com
+smoner.com##.eww
+smoner.com##.copyright-container
+smoner.com###bs-example-navbar-collapse-1
+||smoner.com/image/background.jpg$image
+smoner.com###mainNav > .container
+smoner.com###mainNav
+
+! 20/7/2563 https://shrinkme.io
+||shrinkme.io/header9.webp$image
+shrinkme.io###mainNav
+shrinkme.io##.text-left
+shrinkme.io##.copyright-container
+shrinkme.io##center
+
