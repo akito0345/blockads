@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: Block ADS Favorite Websites
+! Title: novelpdf-free.blogspot.com
 ! Version: 011
 ! Last modified: 05/03/2020 9:08 GMT+7
 ! Expires: 3 days
@@ -27,17 +27,17 @@ bolssc.com##footer
 bolssc.com###mainNav
 bolssc.com##.link
 
-! 2020-09-08 https://fcdot.lc
-fcdot.lc##p
-fcdot.lc###container
-fcc.lc##p
-fcc.lc##.adq
-||fc.lc/dwn.html$subdocument
+! 2020-09-14 https://fcdot.lc
 fcc.lc##h2.text-center
 fcc.lc##.col-sm-6
 fcc.lc##.col-sm-4
-fcc.lc##.text-light
 ||i.imgur.com/H0LMgQx.png$image
+fcc.lc##.text-light
+! 2020-09-14 https://fcdot.lc
+fcdot.lc##p
+fcdot.lc##.col-sm-4
+fcdot.lc##li
+
 
 
 ! 2020-09-13 https://tii.ai
