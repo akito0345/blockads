@@ -13,6 +13,7 @@
 
 !!!!!!!!   https://fcdot.lc
 fcc.lc##h2.text-center
+fcdot.lc##h2.text-center
 fcc.lc##.col-sm-6
 fcc.lc##.col-sm-4
 ||i.imgur.com/H0LMgQx.png$image
