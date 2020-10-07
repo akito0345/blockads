@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Title: novelpdf-free.blogspot.com
+! Title: blockads-link By.novelpdf-free.blogspot.com
 ! Version: 017
-! Last modified: 15/09/2020 9:08 GMT+7
-! Expires: 3 days
+! Last modified: 07/10/2020 07:54 GMT+7
+! Expires: 7 days
 ! Homepage: https://github.com/akito0345
 ! License: https://github.com/akito0345/blockads/blob/master/LICENSE
 ! Support: https://github.com/akito0345
