@@ -99,6 +99,18 @@ smoner.com###bs-example-navbar-collapse-1
 smoner.com###mainNav > .container
 smoner.com###mainNav
 
+! 2020-10-04 https://shortlink.otohealty.com
+shortlink.otohealty.com###secondarypix > .theiaStickySidebar > .section.sidebar
+shortlink.otohealty.com###Blog1 > .hfeed.blog-posts > .date-outer > .date-posts > .post-outer > .hentry.post > .entry-content-botpix > .related-postbwrap
+shortlink.otohealty.com###Blog1 > .hfeed.blog-posts > .date-outer > .date-posts > .post-outer > .comments
+shortlink.otohealty.com###share-this
+shortlink.otohealty.com###Blog1 > .hfeed.blog-posts > .date-outer > .date-posts > .post-outer > .blog-pager
+shortlink.otohealty.com###downpix > .footer-rep > .footer-menu > .bawahcr.maxwrap > .mobile-hide.menufoot
+shortlink.otohealty.com##.site-footerpix
+shortlink.otohealty.com###breakingnews
+shortlink.otohealty.com###asalmenu > ul
+shortlink.otohealty.com###asalmenu
+
 
 ! 2020-10-07 https://nbyts.online
 nbyts.online###content > center
