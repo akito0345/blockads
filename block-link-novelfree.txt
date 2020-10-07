@@ -51,6 +51,12 @@ smoner.com###mainNav > .container
 smoner.com###mainNav
 
 
-
+! 2020-10-06 https://nbyts.online
+nbyts.online###content > center
+nbyts.online###content > p
+nbyts.online###content > h2.text-center
+nbyts.online###footer > .row > .col-sm-6
+nbyts.online###footer > .row > .col-sm-4
+nbyts.online###footer > .row > .col-sm-2 > .m-0.list-inline > li > .text-light
 
 
