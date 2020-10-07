@@ -70,6 +70,9 @@ fcdot.lc##.col-sm-4
 fcdot.lc##li
 fc-lc.com##iframe:nth-of-type(1)
 fc.lc##div:nth-of-type(4) > span
+fcc.lc###content > p
+fcc.lc###content > .adq
+||fc.lc/dwn.html$subdocument
 
 
 !!!!!!!!   https://stfly.me
