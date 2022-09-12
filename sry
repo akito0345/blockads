@@ -1,0 +1,25 @@
+[Adblock Plus 2.0]
+! Title: blockads-link By.novelpdf-free.blogspot.com
+! Version: 017
+! Last modified: 07/10/2020 07:54 GMT+7
+! Expires: 7 days
+! Homepage: https://github.com/akito0345
+! License: https://github.com/akito0345/blockads/blob/master/LICENSE
+! Support: https://github.com/akito0345
+#This blockads is created for use with my favorite websites.
+#The purpose is to update in many devices.
+
+
+
+! 2022-09-10 https://th.readeraz.com
+th.readeraz.com##.pb-2.pt-2.df.header
+th.readeraz.com##.separate-container
+th.readeraz.com##.pb-3.pt-3.text-center.chapter-header-wg-v1 > .chapter-nav-v1
+th.readeraz.com##.pr-0.pl-0.breadcrumb
+th.readeraz.com##footer
+th.readeraz.com##h1
+th.readeraz.com##.pb-3.pt-3.text-center.chapter-footer-wg-v1 > .chapter-nav-v1 > .btn-group-lg.btn-group > .mr-2.ml-2.btn-info.btn
+
+! 2022-09-12 https://th.readeraz.com
+th.readeraz.com##.mb-3.mt-3.divider
+
